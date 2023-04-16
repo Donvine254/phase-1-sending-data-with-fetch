@@ -27,4 +27,4 @@ function submitData(name, email) {
         document.body.appendChild(newElement)
       })
   }
-  
+  submitData("donvine","donvine.gmail.com")
